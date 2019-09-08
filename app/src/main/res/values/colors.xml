@@ -1,0 +1,8 @@
+<resources>
+    <color name="colorPrimary">#111</color>
+    <color name="colorPrimaryDark">#FFF</color>
+    <color name="colorAccent">#ea3732</color>
+    <color name="gray">#e2e2e2</color>
+    <color name="gray2">#757575</color>
+    <color name="gray3">#303030</color>
+</resources>
